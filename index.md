@@ -1,4 +1,5 @@
-## Feb 21, 2021
+## Nov 2020 - Feb 2021 Full time 15.5  week Malaysia Cohort.
+> Shubhra Prakash - Instructor
 
 This report is based on my specific experience of teaching this particular cohort within 15.5 week format. If anything, I hope this may help as documentation. 
 
