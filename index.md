@@ -9,7 +9,7 @@ The document covers onboarding, curriculum, lecutres and suggestions.
 
 ### 1. Onboarding 
 -----
-Since this was pre-GitBook changes that I have seen implemented, these points may no longer be relevant. 
+Since this was pre-GitBook updates, these points may no longer be relevant. 
 
 #### 1.1 
 Many docs/emails and messages informed me of what I should expect going into my first day, but there was no centralized place for this information.  
@@ -17,12 +17,12 @@ Many docs/emails and messages informed me of what I should expect going into my 
 #### 1.2 
 A contact list with information on who can help answer what kinds of questions would be helpful. I was not sure who to ask a particular question, I would end up asking Joana or Ereena or Ruth or Emefa without knowing the exact person who could help me.  
 #### 1.3 
-It was only after I was teaching part-time cohort that I realized how much of the scheduling and in fact updating coding challenges is  done by Emefa who is supporting the instructors. I did not know I could use Ereena's help for this in full-time cohort. I don't think she did either. 
+It was only after I was teaching part-time cohort that I realized how much of the scheduling and even updating coding challenges is done by Emefa who is supporting the instructors. I did not know I could use Ereena's help for this in full-time cohort. I don't think she did either. 
 #### 1.4 
-GitPack Student was available for Malaysia cohort but we didn't know about it till I saw that it was offered in the part-time cohort. I don't think the cohort knew how to make use of it. 
+I only knew that GitPack Student service was being offered after attending the part-time cohort. I then requested and received it for the Malaysia cohort but I don't think the cohort knew how to make use of it. 
    
 #### 1.5 
-Permissions / access to google drive documents should be given beforehand. 
+Permissions / access to google drive documents should be given beforehand. There were many instances I had to request access.
  
    
 #### 1.6 
