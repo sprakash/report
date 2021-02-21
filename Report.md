@@ -1,7 +1,3 @@
-## **Report**  
-### *Nov 2020 - Feb 2021 Full time 15.5  week Malaysia Cohort, Instructor - Shubhra Prakash.*
---------
-
 This report is based on my specific experience of teaching this particular cohort within 15.5 week format. If anything, I hope this may help as documentation. 
 
 The document covers onboarding, curriculum, lecutres and suggestions.
@@ -10,7 +6,7 @@ The document covers onboarding, curriculum, lecutres and suggestions.
 
 ### 1. Onboarding 
 -----
-Since this was pre-GitBook changes that I have seen implemented, these points may no longer be relevant. 
+Since this was pre-GitBook updates, these points may no longer be relevant. 
 
 #### 1.1 
 Many docs/emails and messages informed me of what I should expect going into my first day, but there was no centralized place for this information.  
