@@ -1,5 +1,5 @@
 #
-This report is based on my specific experience of teaching this particular cohort within 15.5 week format. If anything, I hope this may help as documentation. 
+The following report is based on my specific experience of teaching this particular cohort within 15.5 week format. If anything, I hope this may help as documentation. 
 
 The document covers onboarding, curriculum, lecutres and suggestions.
 
