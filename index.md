@@ -3,7 +3,7 @@ The following report is based on my specific experience of teaching this particu
 
 The document covers onboarding, curriculum, lecutres and suggestions.
 
-> Please note, that mine was a longer cohort and therefore, my reflections are definitely impacted by this.  
+> Please note, that mine was a longer cohort than the usual 11 weeks and therefore, my reflections are definitely impacted by this.  
 
 ### 1. Onboarding 
 -----
